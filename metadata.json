@@ -1,0 +1,6 @@
+{
+  "name": "Nowshera Family Clinic",
+  "description": "Clinic appointment and patient management system with patient booking, doctor scheduling, admin controls, automated email notifications, and visit records.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
